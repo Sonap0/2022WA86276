@@ -1,5 +1,6 @@
 public class HelloWorld {
+
     public static void main(String[] args) {
-        System.out.println("Hello from DevOps Jenkins Maven Build");
+        System.out.println("Hello from DevOps Continuous Integration");
     }
 }
